@@ -1,0 +1,90 @@
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/dist/build.css">
+    <title>TP VueJS: Gestion des promotions et des élèves</title>
+    <style type="text/css">
+      i:hover {
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="nav">
+          <ul class="nav navbar-nav">
+            <li><a href=""><i class="glyphicon glyphicon-home"></i>&nbsp;Accueil</a></li>
+            <li><a href=""><i class="glyphicon glyphicon-th-list"></i>&nbsp;Promotions</a></li>
+            <li><a href=""><i class="glyphicon glyphicon-th-list"></i>&nbsp;Élèves</a></li>
+            <li><a href=";"><i class="glyphicon glyphicon-plus"></i>&nbsp;Ajouter une promotion</a></li>
+            <li><a href=""><i class="glyphicon glyphicon-plus"></i>&nbsp;Ajouter un élève</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div id="app" class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <input type="text" value="Aaron Swartz"> <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+            <div class="panel-body col-md-8" promotion_id="1">
+              <input placeholder="Prénom" type="text"  value="Myriam">
+              <input placeholder="Nom" type="text"  value="Pennequin">
+              <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+            <div class="panel-body col-md-8" promotion_id="1">
+              <input placeholder="Prénom" type="text" value="Alexandre">
+              <input placeholder="Nom" type="text" value="Mahieu">
+              <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <input type="text" value="Jimmy Wales"> <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+            <div class="panel-body col-md-8" promotion_id="2">
+              <input placeholder="Prénom" type="text" value="Daishi">
+              <input placeholder="Nom" type="text" value="Kaszer">
+              <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <input type="text" value="John Perry Barlow"> <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+            <div class="panel-body col-md-8" promotion_id="3">
+              <input placeholder="Prénom" type="text" value="Philippe">
+              <input placeholder="Nom" type="text" value="Pary">
+              <i class="glyphicon glyphicon-floppy-disk"></i> <i class="glyphicon glyphicon-trash"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <nav class="navbar navbar-default navbar-fixed-bottom">
+      <div class="container-fluid">
+        <div class="nav">
+          <ul class="nav navbar-nav">
+            <li><a>2018 TP VueJS à PopSchool Lens</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="dist/build.js"></script>
+
+
+</body>
+</html>

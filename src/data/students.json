@@ -1,0 +1,438 @@
+{ "status" : "ok",
+  "data": {
+    "students": [
+      {
+        "id": 0,
+        "lastname": "Mahieu",
+        "firstname": "Alexandre",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Lhermitte",
+        "firstname": "Anthony",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Soufflet",
+        "firstname": "Benjamin",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Liénard",
+        "firstname": "Céline",
+        "sex": 1
+      },
+      {
+        "id": 0,
+        "lastname": "Dujardin",
+        "firstname": "Charlotte",
+        "sex": 1
+      },
+      {
+        "id": 0,
+        "lastname": "Goedefroye",
+        "firstname": "Clémentine",
+        "sex": 1
+      },
+      {
+        "id": 0,
+        "lastname": "Toron",
+        "firstname": "David",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Molinaro",
+        "firstname": "Edwina",
+        "sex": 1
+      },
+      {
+        "id": 0,
+        "lastname": "Avellino",
+        "firstname": "Enzo",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Akhenkham",
+        "firstname": "Farid",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Marcinkowski",
+        "firstname": "Florian",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Dufour",
+        "firstname": "Jérémy",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Leroy",
+        "firstname": "Julien",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Dhénin",
+        "firstname": "Kévin",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Tauveron",
+        "firstname": "Loïc",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Pennequin",
+        "firstname": "Loïc",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Semery",
+        "firstname": "Marion",
+        "sex": 1
+      },
+      {
+        "id": 0,
+        "lastname": "Vigliaron",
+        "firstname": "Matéo",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Payage",
+        "firstname": "Michaël",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Maciejewski",
+        "firstname": "Romain",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Chiki",
+        "firstname": "Selim",
+        "sex": 0
+      },
+      {
+        "id": 0,
+        "lastname": "Defrance",
+        "firstname": "Thibault",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Legrand",
+        "firstname": "Albin",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Bouchez",
+        "firstname": "Alexis",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Bani",
+        "firstname": "Alicia",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Coyat",
+        "firstname": "Amélie",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Thuliez",
+        "firstname": "Cathy",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Rouille",
+        "firstname": "Émile",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Leunens",
+        "firstname": "Évelyne",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Bois",
+        "firstname": "Gaetan",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Martinage",
+        "firstname": "Gaëlle",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Molinaro",
+        "firstname": "Karine",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Ramez",
+        "firstname": "Laurent",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Pruvost",
+        "firstname": "Maxime",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Cyter",
+        "firstname": "Nicolas",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Decroix",
+        "firstname": "Ophélie",
+        "sex": 1
+      },
+      {
+        "id": 1,
+        "lastname": "Jacaton",
+        "firstname": "Paul",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Leroux",
+        "firstname": "Quentin",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Betremieux",
+        "firstname": "Rudy",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Malcherczyk",
+        "firstname": "Rudy",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Willebrouck",
+        "firstname": "Rémi",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Paterek",
+        "firstname": "Stéphane",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Sailly",
+        "firstname": "Sébastien",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Ringot",
+        "firstname": "Thomas",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Galiot",
+        "firstname": "Théo",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Bourgesse",
+        "firstname": "Tom",
+        "sex": 0
+      },
+      {
+        "id": 1,
+        "lastname": "Arndt",
+        "firstname": "Vincent",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Laurent",
+        "firstname": "Alexis",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Nacer",
+        "firstname": "Benamar",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Martinez",
+        "firstname": "Benjamin",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Larragueta",
+        "firstname": "Corine",
+        "sex": 1
+      },
+      {
+        "id": 2,
+        "lastname": "Couillet",
+        "firstname": "Dylan",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Di Girolamo",
+        "firstname": "Émilie",
+        "sex": 1
+      },
+      {
+        "id": 2,
+        "lastname": "Ludowicz",
+        "firstname": "Florian",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Deiana",
+        "firstname": "Guillaume",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Henocq",
+        "firstname": "Jimmy",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Lefebvre",
+        "firstname": "Jimmy",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Barré",
+        "firstname": "Jordy",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Delissenne",
+        "firstname": "Julien",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Wilquin",
+        "firstname": "Logan",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Maroni",
+        "firstname": "Mathias",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Berquier",
+        "firstname": "Mélinda",
+        "sex": 1
+      },
+      {
+        "id": 2,
+        "lastname": "Dubourdieu",
+        "firstname": "Nathan",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Samier",
+        "firstname": "Nicolas",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Boufflers",
+        "firstname": "Pierre",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Lecocq",
+        "firstname": "Quentin",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Prospero",
+        "firstname": "Romain",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Yahia",
+        "firstname": "Samera",
+        "sex": 1
+      },
+      {
+        "id": 2,
+        "lastname": "Libeert",
+        "firstname": "Samuel",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Louette",
+        "firstname": "Sarah",
+        "sex": 1
+      },
+      {
+        "id": 2,
+        "lastname": "Halle",
+        "firstname": "Sébastien",
+        "sex": 0
+      },
+      {
+        "id": 2,
+        "lastname": "Duquesnoy",
+        "firstname": "Stéphane",
+        "sex": 0
+      }
+    ]
+  }
+}
